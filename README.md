@@ -1,4 +1,4 @@
 blg
 ===
 
-Blog Software with AngularJS and Arrangodb
+Blog Software with AngularJS and ArangoDB
